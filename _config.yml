@@ -1,0 +1,14 @@
+layout_spectrum: 0.3258253268431872
+typography_spectrum: 0.7069776046555489
+color:
+  brandStrength: 0.7626068370882422
+  lightness: 0.9402772767934948
+  saturation: 0.40590508305467665
+  rhythmicContrast: 0.6185165247879922
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: items
